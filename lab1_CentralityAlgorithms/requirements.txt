@@ -1,0 +1,8 @@
+snap
+networkx[default]
+matplotlib
+plotly
+ipykernel
+jupyter-dash
+dash
+ipywidgets
